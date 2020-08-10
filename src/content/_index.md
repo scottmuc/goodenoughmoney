@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Good hnough Money
+# Good Enough Money
 
 ## Objective
 
