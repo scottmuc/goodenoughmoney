@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- **Concepts**
+- **Core Concepts**
 - Cash flow (income expenses)
 - Asset Allocation
 - Networth tracking
