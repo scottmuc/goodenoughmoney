@@ -29,6 +29,13 @@ This website is here to help you navigate information abundance around personal
 finance. It is targeted towards people familiar with FIRE but could use some
 guidance over and above the usual resources.
 
+## Why Should You Bother Reading?
+
+You shouldn't. There's plenty of resources out there already. This website is
+for my friends and aquaintances that have been curious about my journey. I've
+sent countless e-mails and have had many wonderful chats on these concepts, but
+I want to share more and keep it up-to-date.
+
 ## Principles
 
 * Keep it simple

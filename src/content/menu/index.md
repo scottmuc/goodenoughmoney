@@ -2,6 +2,10 @@
 headless: true
 ---
 
+- **Principles**
+
+<br />
+
 - **Core Concepts**
 - Cash flow (income expenses)
 - Asset Allocation
