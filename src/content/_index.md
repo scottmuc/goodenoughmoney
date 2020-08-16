@@ -20,7 +20,7 @@ to reach.
 Not long after I bought what appears to be the FIRE bible, [The Simple Path to Wealth][tsptw]
 and read it in a couple evenings. I enjoyed its simplicity. It was like a
 weight off of my shoulders. It instructed me that I need discipline, not
-smarts. He also [spoker at Google][jlcgoogle] and I periodically watch it to
+smarts. He also [spoke at Google][jlcgoogle] and I periodically watch it to
 remind myself of the core fundamentals.
 
 ## What's This Website About?
