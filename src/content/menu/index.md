@@ -3,17 +3,20 @@ headless: true
 ---
 
 - **Principles**
+- Keep it Simple
+- Measure What Matters
+- Enough is Enough
+- Foster Habits
+
 
 <br />
 
 - **Core Concepts**
-- Cash flow (income expenses)
+- Expense Tracking
+- Networth Tracking
 - Asset Allocation
-- Networth tracking
-- Future cash flow projection
-- Future net worth projection
-- Routine Checkins
-- Having someone to discuss this with
+- Future Projections
+- Commitment Partner
 
 <br />
 
