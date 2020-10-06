@@ -43,7 +43,7 @@ I want to share more and keep it up-to-date.
 * Measure and adjust your actions periodically
 
 
-[mmmtalk]: https://vimeo.com/183016901
+[mmmtalk]: https://www.youtube.com/watch?v=FEBe7ZEfORc
 [mmm]: https://www.mrmoneymustache.com/
 [madfi]: http://www.madfientist.com/
 [tsptw]: https://www.thesimplepathtowealth.com/
