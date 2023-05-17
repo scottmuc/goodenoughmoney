@@ -1,13 +1,11 @@
 ---
 headless: true
 ---
-
 - **Principles**
 - Keep it Simple
 - Measure What Matters
 - Enough is Enough
 - Foster Habits
-
 
 <br />
 
