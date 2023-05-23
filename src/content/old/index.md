@@ -1,6 +1,5 @@
 ---
 title: Introduction
-type: docs
 ---
 # What's This Website About?
 
@@ -42,6 +41,30 @@ remind myself of the core fundamentals.
 * Keep it simple
 * There is a point where more doesn’t matter
 * Measure and adjust your actions periodically
+
+## Old Menu
+
+- **Principles**
+- Keep it Simple
+- Measure What Matters
+- Enough is Enough
+- Foster Habits
+
+<br />
+
+- **Core Concepts**
+- Expense Tracking
+- Networth Tracking
+- Asset Allocation
+- Future Projections
+- Commitment Partner
+
+<br />
+
+- **Tools**
+- Accounting
+- Wealth Dashboard
+<br />
 
 
 [mmmtalk]: https://www.youtube.com/watch?v=FEBe7ZEfORc
