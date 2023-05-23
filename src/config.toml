@@ -1,11 +1,7 @@
 baseURL = "http://goodenoughmoney.com/"
 languageCode = "en-us"
 title = "Good Enough Money"
-theme = "github.com/alex-shpak/hugo-book"
-
-[module]
-[[module.imports]]
-path = 'github.com/alex-shpak/hugo-book'
+theme = "book"
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
