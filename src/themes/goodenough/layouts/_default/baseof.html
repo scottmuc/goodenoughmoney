@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
-  <body>
-    <div id="content">
-      {{- block "main" . }}
-      {{- .Content }}
-      {{- end }}
-    </div>
-  </body>
+<head>
+
+<style type="text/css">
+
+</style>
+
+</head>
+<body>
+  <div id="content">
+    {{ block "main" . }}
+    {{ .Content }}
+    {{ end }}
+  </div>
+</body>
 </html>

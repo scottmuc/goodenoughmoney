@@ -73,5 +73,3 @@ remind myself of the core fundamentals.
 [madfi]: http://www.madfientist.com/
 [tsptw]: https://www.thesimplepathtowealth.com/
 [jlcgoogle]: https://www.youtube.com/watch?v=T71ibcZAX3I
-
-
