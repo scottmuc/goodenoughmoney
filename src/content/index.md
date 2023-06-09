@@ -17,6 +17,10 @@ the last few years. He later released an excellent paper on
 My goal with this website is to condense what I've learned over the past 8 years into
 a resource that can get anyone started.
 
+[csi-advice]: https://www.youtube.com/watch?v=TI5p8vqdjTw
+[funding-life]: https://www.pwlcapital.com/finding-and-funding-a-good-life/
+[mmmtalk]: https://www.youtube.com/watch?v=FEBe7ZEfORc
+
 ## Goal Formation and Quantification
 
 > The hardest financial skill is to get the goal posts to
@@ -49,6 +53,37 @@ Prevent suprise tax bills and know how to only pay necessary taxes.
 Given that you'll need to apply and monitor this plan for your entire life, you'll need
 to create systems and habits that help you stick to the plan.
 
-[csi-advice]: https://www.youtube.com/watch?v=TI5p8vqdjTw
-[funding-life]: https://www.pwlcapital.com/finding-and-funding-a-good-life/
-[mmmtalk]: https://www.youtube.com/watch?v=FEBe7ZEfORc
+# Resources
+
+## Books
+
+There are many books on this subject, and I've only read these 4:
+
+* [Simple Path to Wealth][simple-path]
+* [Psychology of Money][psych-money]
+* [A Random Walk Down Wall Street][random-walk]
+* [Your Investment Philosophy][invest-phil]
+
+There are many other books on improving your life and all that jazz, but the above books
+are directly related to one's financial future.
+
+[simple-path]: https://www.thesimplepathtowealth.com/
+[psych-money]: https://www.morganhousel.com/
+[random-walk]: https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street
+[invest-phil]: https://www.mfg.com.au/blog/your-investment-philosophy-why-we-wrote-this-book/
+
+## Podcasts / Channels
+
+These are podcasts/channels that I watch. I won't list things I haven't experienced:
+
+* [Common Sense Investing][csi]
+* [Patrick Boyle][patrick-boyle]
+* [The Plain Bagel][plain-bagel]
+* [The Rational Reminder][rational-reminder]
+* [Madfientist][madfientist]
+
+[csi]: https://www.youtube.com/@BenFelixCSI
+[patrick-boyle]: https://www.youtube.com/@PBoyle
+[plain-bagel]: https://www.youtube.com/@ThePlainBagel
+[rational-reminder]: https://www.youtube.com/@rationalreminder
+[madfientist]: https://www.madfientist.com/podcast/
