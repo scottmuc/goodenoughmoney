@@ -2,7 +2,16 @@
 title: Welcome to Good Enough Money
 type: page
 ---
-# Welcome to Good Enough Money
+# Welcome 
+
+> Wealth consists not in having great possessions, but having few wants. - Epictetus
+
+> True welath is not having everything, but knowing you already have enough. - Unknown (often
+  credited to Kurt Vonnegut)
+
+> He who knows he has enough is rich. - Lao Tzu
+
+[vonnegut]: https://www.themarginalian.org/2014/01/16/kurt-vonnegut-joe-heller-having-enough/
 
 This website is a collection and synthesis of the resources I've found most valuable
 on my personal finance journey. This journey started in 2016 after watching a video
@@ -55,6 +64,25 @@ to create systems and habits that help you stick to the plan.
 
 # Resources
 
+## Tools
+
+I try to keep the number of tools I use to a minimum:
+
+* A custom spreadsheet to track Net Worth, Asset Allocation, Savings Rate, Investment Growth with
+  a few simplistic Forecasting tool.
+* GnuCash to track my income and expenses with my preferred expense account names.
+* A Monte Carlo calculator.
+* Investment portfolio analyser.
+
+[portfolio-vis]: https://www.portfoliovisualizer.com/
+[honestmath]: https://www.honestmath.com/
+[gnucash]: https://www.gnucash.org/
+[spreadsheet-tracker]: TBD
+[wesabe]: https://www.failory.com/cemetery/wesabe
+
+There are a lot of tools out there but I'll only list the ones I personally use. I can't say
+much about the tools that I do not use.
+
 ## Books
 
 There are many books on this subject, and I've only read these 4:
@@ -87,3 +115,6 @@ These are podcasts/channels that I watch. I won't list things I haven't experien
 [plain-bagel]: https://www.youtube.com/@ThePlainBagel
 [rational-reminder]: https://www.youtube.com/@rationalreminder
 [madfientist]: https://www.madfientist.com/podcast/
+
+## References
+
